@@ -43,8 +43,4 @@ public class Response {
 		System.out.println("master commit");
 	}
 
-	public void test(){
-		System.out.println("fix-branch commit");
-	}
-
 }
