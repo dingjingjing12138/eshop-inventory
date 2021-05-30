@@ -44,7 +44,7 @@ public class Response {
 	}
 
 	public void test(){
-		System.out.println("fix-branch commit");
+		System.out.println("remote update commit");
 	}
 
 }
