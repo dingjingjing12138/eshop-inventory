@@ -44,7 +44,7 @@ public class Response {
 	}
 
 	public void test(){
-		System.out.println("本机修改 commit");
+		System.out.println("远程修改 commit");
 	}
 
 }
