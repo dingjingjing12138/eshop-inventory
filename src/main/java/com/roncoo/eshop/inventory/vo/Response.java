@@ -21,11 +21,6 @@ public class Response {
 		this.status = status;
 	}
 	
-	public Response(String status, String message) {
-		this.status = status;
-		this.message = message;
-	}
-	
 	public String getStatus() {
 		return status;
 	}
@@ -37,6 +32,10 @@ public class Response {
 	}
 	public void setMessage(String message) {
 		this.message = message;
+	}
+
+	public void test(){
+		System.out.println("fix-branch commit");
 	}
 	
 }
