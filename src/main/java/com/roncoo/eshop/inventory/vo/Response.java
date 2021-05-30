@@ -46,6 +46,10 @@ public class Response {
 	public void test(){
 		System.out.println("远程修改 commit");
 	}
+	
+	public void remotetest(){
+		System.out.println("远程修改 commit");
+	}
 
 	public void localtest(){
 		System.out.println("远程修改1 commit");
