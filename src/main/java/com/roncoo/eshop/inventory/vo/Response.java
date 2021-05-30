@@ -38,5 +38,9 @@ public class Response {
 	public void setMessage(String message) {
 		this.message = message;
 	}
+
+	public void test2(){
+		System.out.println("master commit");
+	}
 	
 }
